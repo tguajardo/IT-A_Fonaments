@@ -1,0 +1,16 @@
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.mpeg
+*.mpg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
