@@ -1,0 +1,48 @@
+[33mcommit bbe9bcfd11a930e00b9c81894c38323606219dd5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: tguajardo <tguajardo@gmail.com>
+Date:   Fri Oct 30 09:29:19 2026 +0100
+
+    Ejercicio modulo 8 extra 1
+
+[33mcommit 9d6097ab2dd686c200743c0d1bc3f3632be66f6c[m
+Merge: 11b1133 0df3b2f
+Author: tguajardo <tguajardo@gmail.com>
+Date:   Thu Oct 29 22:13:05 2026 +0100
+
+    Erasing Cached files
+
+[33mcommit 11b1133e9c211f475569f5f23061140789f8e756[m
+Author: tguajardo <tguajardo@gmail.com>
+Date:   Thu Oct 29 22:11:07 2026 +0100
+
+    Remove Python cache files
+
+[33mcommit 0df3b2f9ffc91d897967b7ad00998a91e3e6ce65[m
+Author: Tomas Guajardo <tguajardo@gmail.com>
+Date:   Thu Oct 29 22:10:35 2026 +0100
+
+    Delete M8/M8_Ex5/__pycache__ directory
+
+[33mcommit 71a30ae3f4c0cd7180ec4daf05f66c926bde1a90[m
+Author: Tomas Guajardo <tguajardo@gmail.com>
+Date:   Thu Oct 29 22:10:19 2026 +0100
+
+    Delete M8/M8_Ex4/__pycache__ directory
+
+[33mcommit 053ad4c746270a96dbcd8be9017f8b49417161a0[m
+Author: Tomas Guajardo <tguajardo@gmail.com>
+Date:   Thu Oct 29 22:09:58 2026 +0100
+
+    Delete M8/M8_Ex2/__pycache__ directory
+
+[33mcommit 51d2f16866f4b1d707f45a7062d49c5aa9153aa4[m
+Author: Tomas Guajardo <tguajardo@gmail.com>
+Date:   Thu Oct 29 22:02:34 2026 +0100
+
+    Delete M8/M8_Ex1/M8_Ex1.mp4
+
+[33mcommit 974ffd56dcf8d9bb1b7e91a76b26902911ae316b[m
+Author: Tomas Guajardo <tguajardo@gmail.com>
+Date:   Thu Oct 29 21:53:45 2026 +0100
+
+    Ejercicios curso de fonaments IT Academy

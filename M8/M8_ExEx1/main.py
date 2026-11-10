@@ -39,6 +39,13 @@ def buscarTreballador(
     return None, None
 
 
+def requestText(prompt: str) -> str | None:
+    text: str = input(f"{prompt}: ").strip()
+    if not Helper.notEmpty(text):
+        return None
+    return text
+
+
 # ---------- Menú ----------
 def mostrarMenu() -> None:
     print("\n===== CAMPEONATO DE COCHES =====")
@@ -89,7 +96,7 @@ def pedirDatosComunes(
     escuderies: list[Escuderia],
 ) -> tuple[Escuderia, str, str, str, int, int] | None:
     """Pide los datos que comparten pilotos y mecánicos. Devuelve None si algún dato es inválido."""
-    nombreEscuderia = Helper.requestText("Escudería")
+    nombreEscuderia = requestText("Escudería")
     if nombreEscuderia is None:
         return None
     escuderia, _ = Helper.getByName(escuderies, nombreEscuderia)
@@ -97,7 +104,7 @@ def pedirDatosComunes(
         print(Helper.ERRORS["element_not_exists"])
         return None
 
-    dni = Helper.requestText("DNI")
+    dni = requestText("DNI")
     if dni is None:
         return None
     dni = dni.upper()
